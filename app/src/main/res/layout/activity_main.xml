@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activities.MainActivity"
+    android:background="@drawable/cw_driver">
+
+    <!--POSICIONAR ELEMENTOS DE MANERA VERTICAL-->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <!--<ImageView
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:src="@drawable/logo"
+            android:layout_gravity="center"
+            android:layout_marginTop="50dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="CARWASH 77 - AUTO LAVADO A DOMICILIO"
+            android:textAlignment="center"
+            android:layout_margin="40dp"
+            android:textSize="18sp"
+            android:textColor="@color/white"/>-->
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:gravity="bottom"
+            android:layout_margin="20dp">
+
+            <Button
+                android:layout_width="0dp"
+                android:id="@+id/btnIAmDriver"
+                android:layout_height="wrap_content"
+                android:text="LAVADOR"
+                android:backgroundTint="@color/blue"
+                android:layout_weight="1"/>
+
+            <!--<Button
+                android:layout_width="0dp"
+                android:id="@+id/btnIAmClient"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="CLIENTE"
+                android:backgroundTint="@color/white"
+                android:textColor="@color/black"/>-->
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

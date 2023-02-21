@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "655099563509",
+    "firebase_url": "https://uberclonedany-default-rtdb.firebaseio.com",
+    "project_id": "uberclonedany",
+    "storage_bucket": "uberclonedany.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655099563509:android:9de417c545b3640ba9a4bc",
+        "android_client_info": {
+          "package_name": "com.daniel.uberclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655099563509-a5tiiukefe5ac7c90v7p7s3repid68ke.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.daniel.uberclone",
+            "certificate_hash": "5d796f2f0973a1c5deb3248917f2e202937836e2"
+          }
+        },
+        {
+          "client_id": "655099563509-gci1s9q0eumbf8evqtsbh0p7dgujhklp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlRL6YTbPCAqZYVVkfiebh9mqEaANHiBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655099563509-gci1s9q0eumbf8evqtsbh0p7dgujhklp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655099563509:android:e318b1f2f51cf7f6a9a4bc",
+        "android_client_info": {
+          "package_name": "com.devinsure.carwash.android.cliente"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655099563509-utr7a69qvat2mt88i6o9dsf2rlvn2bg8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.devinsure.carwash.android.cliente",
+            "certificate_hash": "9a21d4d0ca293c2b4b21f004efe29013aae28af6"
+          }
+        },
+        {
+          "client_id": "655099563509-gci1s9q0eumbf8evqtsbh0p7dgujhklp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlRL6YTbPCAqZYVVkfiebh9mqEaANHiBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655099563509-gci1s9q0eumbf8evqtsbh0p7dgujhklp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655099563509:android:9ba70e8552334467a9a4bc",
+        "android_client_info": {
+          "package_name": "com.devinsure.carwash.android.operador"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655099563509-ec7thf26nvvlpqlver8k3vo5hfufmr16.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.devinsure.carwash.android.operador",
+            "certificate_hash": "9a21d4d0ca293c2b4b21f004efe29013aae28af6"
+          }
+        },
+        {
+          "client_id": "655099563509-gci1s9q0eumbf8evqtsbh0p7dgujhklp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlRL6YTbPCAqZYVVkfiebh9mqEaANHiBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655099563509-gci1s9q0eumbf8evqtsbh0p7dgujhklp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
